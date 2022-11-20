@@ -7,4 +7,9 @@
   font-family: 'Fixedsys Excelsior';
     src: url('../FSEX302.TTF')  format('truetype');
     font-style: normal;
+  background-image: url('../images/soviet42.png');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: cover;
 }
